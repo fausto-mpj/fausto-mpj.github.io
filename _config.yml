@@ -15,6 +15,7 @@ author: Fausto Marques Pinheiro Junior
 
 navbar-links:
   About: "aboutme"
+  Links: "links"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
