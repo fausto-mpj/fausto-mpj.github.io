@@ -22,7 +22,9 @@ subtitle: Sources and resources
 
 * [What's New (by Terence Tao)](https://terrytao.wordpress.com/);
 
-* [AMS Blogs](https://blogs.ams.org/blogonmathblogs/).
+* [AMS Blogs](https://blogs.ams.org/blogonmathblogs/);
+
+* [Tanya Khovanova's Math Blog](https://blog.tanyakhovanova.com/).
 
 
 #### 2. YouTube Channels
